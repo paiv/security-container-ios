@@ -6,6 +6,8 @@ Security Container implements lock screen UI pattern.
 
 When in locked state, rest of the app is fully unloaded from memory.
 
+Read here: https://paiv.github.io/blog/2016/08/18/security-container-ios.html
+
 
 Using in your app
 -----------------
